@@ -18,7 +18,7 @@ export default [
 		title: 'Software Engineer',
 		duration: '2 years',
 		details:
-			'I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeSciprt, Angular, Java, Gradle, and a handful of other languages and tools.',
+			'I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeScript, Angular, Java, Gradle, and a handful of other languages and tools.',
 	},
 	{
 		year: '2018',
